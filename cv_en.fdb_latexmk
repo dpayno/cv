@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1744016413.83309 "/home/dani/work/cv/sample.tex" "sample.pdf" "sample" 1744016414.696 0
-  "/home/dani/work/cv/sample.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
+["pdflatex"] 1744100856.89495 "/home/dani/work/cv/cv_en.tex" "cv_en.pdf" "cv_en" 1744100857.80051 0
+  "/home/dani/work/cv/cv_en.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1742685315 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1742685315 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1742685315 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -265,15 +265,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1743784700 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1743784651 2008232 e91f60096aac649f680d4c96c2e0b9b2 ""
   "altacv.cls" 1741260152 17703 3b52b2f302371568da402258ac506904 ""
-  "pdfa.xmpi" 1744016414.11199 5042 129f623b72c6376624e681a562ec9f24 "pdflatex"
-  "sample.aux" 1744016414.59866 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "sample.out" 1744016414.362 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sample.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
+  "cv_en.aux" 1744100857.7032 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv_en.out" 1744100857.43654 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_en.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
+  "pdfa.xmpi" 1744100857.17987 5042 71c306477903eb69f638e2936da16b4c "pdflatex"
   (generated)
+  "cv_en.aux"
+  "cv_en.log"
+  "cv_en.out"
+  "cv_en.pdf"
   "pdfa.xmpi"
-  "sample.aux"
-  "sample.log"
-  "sample.out"
-  "sample.pdf"
   (rewritten before read)
   "pdfa.xmpi"

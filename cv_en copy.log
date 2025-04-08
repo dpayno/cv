@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.4)  7 APR 2025 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.4)  8 APR 2025 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/dani/work/cv/sample.tex
-(/home/dani/work/cv/sample.tex
+**"/home/dani/work/cv/cv_en copy.tex"
+(/home/dani/work/cv/cv_en copy.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./altacv.cls
@@ -190,7 +190,7 @@ Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A supp
  (/usr/share/texmf-dist/tex/generic/colorprofiles/colorprofiles.tex)) (/usr/share/texmf-dist/tex/latex/pdfx/AdobeColorProfiles.tex) (/usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
-** pdfx: No file sample.xmpdata . Metadata will be incomplete!
+** pdfx: No file "cv_en copy".xmpdata . Metadata will be incomplete!
 <<sRGB.icc>> (/usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 ) (/usr/share/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/share/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex) (/usr/share/texmf-dist/tex/latex/pdfx/glyphtounicode-ntx.tex) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
@@ -1071,8 +1071,8 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 69.
- (./sample.aux)
-\openout1 = `sample.aux'.
+ (./cv_en copy.aux)
+\openout1 = `"cv_en copy.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
@@ -1112,9 +1112,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 69.
- (./sample.out) (./sample.out)
+ (./cv_en copy.out) (./cv_en copy.out)
 \@outlinefile=\write5
-\openout5 = `sample.out'.
+\openout5 = `"cv_en copy.out"'.
 
 
 *geometry* driver: auto-detecting
@@ -1253,24 +1253,24 @@ Overfull \hbox (0.4016pt too wide) in paragraph at lines 259--259
 
 [1
 
-{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsnine.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfive.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsthree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconseight.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfour.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsoneone.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsseven.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconstwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}] (./sample.aux)
+{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsnine.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfive.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsthree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconseight.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfour.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsoneone.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsseven.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconstwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}] (./cv_en copy.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `sample.out' has not changed.
+Package rerunfilecheck Info: File `"cv_en copy".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 36204 strings out of 475171
- 720806 string characters out of 5767096
- 1100220 words of memory out of 5000000
- 58560 multiletter control sequences out of 15000+600000
+ 36207 strings out of 475171
+ 720980 string characters out of 5767096
+ 1100232 words of memory out of 5000000
+ 58563 multiletter control sequences out of 15000+600000
  784883 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,7n,121p,547b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,7n,121p,553b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/simpleicons/SimpleIcons.pfb>
-Output written on sample.pdf (1 page, 204729 bytes).
+Output written on "cv_en copy.pdf" (1 page, 204729 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)

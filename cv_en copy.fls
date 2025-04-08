@@ -1,8 +1,8 @@
 PWD /home/dani/work/cv
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/dani/work/cv/sample.tex
-OUTPUT sample.log
+INPUT /home/dani/work/cv/cv_en copy.tex
+OUTPUT cv_en copy.log
 INPUT ./altacv.cls
 INPUT altacv.cls
 INPUT /usr/share/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -122,7 +122,7 @@ INPUT /usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 INPUT /usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 INPUT /usr/share/texmf-dist/tex/generic/colorprofiles/sRGB.icc
 INPUT /usr/share/texmf-dist/tex/generic/colorprofiles/sRGB.icc
-OUTPUT sample.pdf
+OUTPUT cv_en copy.pdf
 INPUT /usr/share/texmf-dist/tex/generic/colorprofiles/sRGB.icc
 INPUT /usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 INPUT /usr/share/texmf-dist/tex/latex/pdfx/8bit.def
@@ -369,10 +369,10 @@ INPUT /usr/share/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 INPUT /usr/share/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 INPUT /usr/share/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF.tfm
-INPUT ./sample.aux
-INPUT ./sample.aux
-INPUT sample.aux
-OUTPUT sample.aux
+INPUT ./cv_en copy.aux
+INPUT ./cv_en copy.aux
+INPUT cv_en copy.aux
+OUTPUT cv_en copy.aux
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -381,13 +381,13 @@ INPUT /usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./sample.out
-INPUT ./sample.out
-INPUT sample.out
-INPUT sample.out
-INPUT ./sample.out
-INPUT ./sample.out
-OUTPUT sample.out
+INPUT ./cv_en copy.out
+INPUT ./cv_en copy.out
+INPUT cv_en copy.out
+INPUT cv_en copy.out
+INPUT ./cv_en copy.out
+INPUT ./cv_en copy.out
+OUTPUT cv_en copy.out
 INPUT /usr/share/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF.tfm
 INPUT /usr/share/texmf-dist/tex/latex/roboto/T1RobotoSlab-TLF.fd
 INPUT /usr/share/texmf-dist/tex/latex/roboto/T1RobotoSlab-TLF.fd
@@ -521,9 +521,9 @@ INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc
-INPUT sample.aux
-INPUT ./sample.out
-INPUT ./sample.out
+INPUT cv_en copy.aux
+INPUT ./cv_en copy.out
+INPUT ./cv_en copy.out
 INPUT /usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb

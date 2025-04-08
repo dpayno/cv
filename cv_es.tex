@@ -1,0 +1,250 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% CV Daniel Payno Zarceño 03/2025 %%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+
+% Change the page layout if you need to
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+% WHEN COMPILING WITH XELATEX PLEASE USE
+% xelatex -shell-escape -output-driver="xdvipdfmx -z 0" sample.tex
+\iftutex
+  % If using xelatex or lualatex:
+  \setmainfont{Roboto Slab}
+  \setsansfont{Lato}
+  \renewcommand{\familydefault}{\sfdefault}
+\else
+  % If using pdflatex:
+  \usepackage[rm]{roboto}
+  \usepackage[defaultsans]{lato}
+  % \usepackage{sourcesanspro}
+  \renewcommand{\familydefault}{\sfdefault}
+\fi
+
+\definecolor{SlateGrey}{HTML}{2E2E2E} % Gris oscuro
+\definecolor{LightGrey}{HTML}{666666} % Gris medio
+\definecolor{DarkPastelRed}{HTML}{1B2B3A} % Azul muy oscuro
+\definecolor{PastelRed}{HTML}{2D4A66} % Azul oscuro
+\definecolor{GoldenEarth}{HTML}{6C8EA4} % Azul grisáceo claro
+\colorlet{name}{black}
+\colorlet{tagline}{PastelRed} % Azul oscuro
+\colorlet{heading}{DarkPastelRed} % Azul muy oscuro
+\colorlet{headingrule}{GoldenEarth} % Azul grisáceo claro
+\colorlet{subheading}{PastelRed} % Azul oscuro
+\colorlet{accent}{PastelRed} % Azul oscuro
+\colorlet{emphasis}{SlateGrey} % Gris oscuro
+\colorlet{body}{LightGrey} % Gris medio
+
+
+% Change some fonts, if necessary
+\renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+\renewcommand{\personalinfofont}{\footnotesize}
+\renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+\renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvRatingMarker}{\faCircle}
+% ...and the markers for the date/location for \cvevent
+% \renewcommand{\cvDateMarker}{\faCalendar*[regular]}
+% \renewcommand{\cvLocationMarker}{\faMapMarker*}
+
+
+% If your CV/résumé is in a language other than English,
+% then you probably want to change these so that when you
+% copy-paste from the PDF or run pdftotext, the location
+% and date marker icons for \cvevent will paste as correct
+% translations. For example Spanish:
+% \renewcommand{\locationname}{Ubicación}
+% \renewcommand{\datename}{Fecha}
+
+\begin{document}
+\name{Daniel Payno Zarceño}
+\tagline{Ingeniero de telecomunicaciones y electrónica}
+%% You can add multiple photos on the left or right
+\photoR{2.1cm}{dani}
+% \photoL{2.5cm}{Yacht_https://drive.google.com/file/d/1lDjwPDTG7veqfp4XvMvnEXEfsYJ1QgVa/view?usp=drive_linkHigh,Suitcase_High}
+
+\personalinfo{%
+  % Not all of these are required!
+  \email{payno97@gmail.com}
+  \phone{+34 638 587 538}
+  % \mailaddress{Åddrésş, Street, 00000 Cóuntry}
+  \location{Madrid, Spain}
+  % \homepage{www.homepage.com}
+  % \twitter{@twitterhandle}
+  % \xtwitter{@x-handle}
+  \linkedin{daniel-payno-zarceño}
+  \github{dpayno}
+  % \orcid{0000-0000-0000-0000}
+  %% You can add your own arbitrary detail with
+  %% \printinfo{symbol}{detail}[optional hyperlink prefix]
+  % \printinfo{\faPaw}{Hey ho!}[https://example.com/]
+
+  %% Or you can declare your own field with
+  %% \NewInfoFiled{fieldname}{symbol}[optional hyperlink prefix] and use it:
+  % \NewInfoField{gitlab}{\faGitlab}[https://gitlab.com/]
+  % \gitlab{your_id}
+  %%
+  %% For services and platforms like Mastodon where there isn't a
+  %% straightforward relation between the user ID/nickname and the hyperlink,
+  %% you can use \printinfo directly e.g.
+  % \printinfo{\faMastodon}{@username@instace}[https://instance.url/@username]
+  %% But if you absolutely want to create new dedicated info fields for
+  %% such platforms, then use \NewInfoField* with a star:
+  % \NewInfoField*{mastodon}{\faMastodon}
+  %% then you can use \mastodon, with TWO arguments where the 2nd argument is
+  %% the full hyperlink.
+  % \mastodon{@username@instance}{https://instance.url/@username}
+}
+
+\makecvheader
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.6}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{2}
+
+\cvsection{Sobre mí}
+
+Ingeniero de telecomunicaciones apasionado por la electrónica y la programación, especializado en sistemas empotrados. Me gusta aceptar nuevos retos y contribuir a entornos de trabajo innovadores.
+
+\cvsection{Experiencia}
+
+\cvevent{Ingeniero de Hardware y Firmware}{TycheTools}{Agosto 2020 -- Abril 2025}{Madrid, ES}
+
+Empresa especializada en \textbf{eficiencia energética} en centros de datos, enfocada en la monitorización ambiental y el control de los sistemas de refrigeración.
+
+\begin{itemize}
+    \item \textbf{Ingeniería Hardware}: recopilación de requisitos, diseño y fabricación de PCB, \textit{assembly}, creación de prototipos y pruebas. Gestión de compras, comunicación con proveedores y RFQ.
+    \item \textbf{Ingeniería Firmware}: diseño e implementación de sistemas empotrados, incluida la programación de microcontroladores, protocolos de comunicación y redes de sensores.
+    \item \textbf{Desarrollo Software}: desarrollo de sistemas basados en Linux utilizando Yocto, e implementación de aplicaciones en C y Python.
+    \item \textbf{Experiencia en centros de datos}: instalación de redes de sensores, optimización de la refrigeración y gestión del consumo.
+\end{itemize}
+
+\divider
+
+\cvevent{Investigación y desarrollo}{GreenLSI (Departamento de Ingeniería Electrónica, ETSIT)}{Mayo 2020 -- Agosto 2020}{Madrid, ES}
+\begin{itemize}
+    \item Investigación y desarrollo de redes Bluetooth Mesh basadas en microcontroladores Nordic nRF52.
+\end{itemize}
+
+\cvsection{Competencias técnicas}
+
+\begin{itemize}
+  \item \textbf{Lenguajes de programación}:
+  
+  \smallskip
+  \cvtag{C/C++} \cvtag{\simpleicon{python} Python} \cvtag{\simpleicon{gnubash} Bash} \cvtag{\simpleicon{dart} Dart}
+  
+  \item \textbf{Microcontroladores}:
+
+  \smallskip
+  \cvtag{\simpleicon{nordicsemiconductor} Nordic} \cvtag{\simpleicon{espressif} ESP} \cvtag{\simpleicon{stmicroelectronics} ST} \cvtag{AVR} \cvtag{PIC} \cvtag{ARM}
+
+  \item \textbf{Protocolos de comunicación}:
+  
+  \smallskip
+  \cvtag{I2C} \cvtag{SPI} \cvtag{UART} \cvtag{RS232} \cvtag{RS485} \cvtag{Wi-Fi} \cvtag{BLE} \cvtag{LoRa} \cvtag{NFC} \cvtag{MQTT} \cvtag{Modbus} \cvtag{SNMP} \cvtag{Raft}
+
+  \item \textbf{Herramientas de desarrollo}:
+  
+  \smallskip
+  \cvtag{\simpleicon{git} Git} \cvtag{\simpleicon{linux} Linux} \cvtag{\simpleicon{make} Makefile} \cvtag{\simpleicon{docker} Docker} \cvtag{\simpleicon{yocto} Yocto} \cvtag{\simpleicon{latex} \LaTeX} \cvtag{\simpleicon{markdown} Markdown} \cvtag{\simpleicon{platformio} PlatformIO}
+
+  \item \textbf{Herramientas de diseño}:
+
+  \smallskip
+  \cvtag{KiCad} \cvtag{2D/3D CAD} \cvtag{\simpleicon{blender} Blender}
+
+  \item \textbf{Otros}:
+
+  \smallskip
+  \cvtag{API REST} \cvtag{\simpleicon{nginx} NGINX} \cvtag{\simpleicon{mysql} SQL} \cvtag{Django} \cvtag{FastAPI} \cvtag{LVGL} \cvtag{\simpleicon{flutter} Flutter} \cvtag{\simpleicon{raspberrypi} Raspberry Pi} \cvtag{\simpleicon{wireshark} Wireshark} \cvtag{\simpleicon{jira} Jira} \cvtag{Agile}
+
+\end{itemize}
+
+\switchcolumn
+
+\cvsection{Formación}
+
+\cvevent{Máster Universitario en Ingeniería de Sistemas Electrónicos}{Universidad Politécica de Madrid, ETSIT}{2021 -- 2022}{Madrid, ES}
+
+\faGraduationCap Trabajo de Fin de Máster: Diseño e implementación de una red de sensores para la monitorización de la calidad del aire (10/10)
+
+\faTrophy Premio al mejor expediente del curso 2021-2022. Patrocinado por Fundetel.
+
+\divider
+
+\cvevent{Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación}{Universidad Politécica de Madrid, ETSIT}{2015 -- 2020}{Madrid, ES}
+
+\faGraduationCap Trabajo de Fin de Grado: Diseño e implementación de un controlador MIDI orientado a instrumentos aerófonos (10/10)
+
+\cvsection{Idiomas}
+
+\cvskill{Español}{5}
+\divider
+\cvskill{Inglés}{4.5}
+
+\cvsection{Softskills}
+
+\begin{itemize}
+  \setlength{\itemindent}{0.5em}
+  \item \textbf{Trabajo en equipo}: experiencia en desarrollo de proyectos con grupos multi-disciplinares.
+  \item \textbf{Resolución de problemas}: capacidad para analizar situaciones complejas y encontrar soluciones efectivas.
+  \item \textbf{Adaptabilidad, flexibilidad}: disposición para aprender y adaptarse a nuevas tecnologías y entornos de trabajo.
+  \item \textbf{Metodologías ágiles, Scrum}: experiencia en la gestión de proyectos utilizando metodologías ágiles.
+\end{itemize}
+
+\medskip
+
+\cvsection{Otros}
+
+\begin{itemize}
+  \setlength{\itemindent}{0.5em}
+  \item Proyectos \textbf{DIY}: impresión 3D, servicios \textbf{self-hosted}
+  \cvtag{\simpleicon{immich} Immich} \cvtag{\simpleicon{influxdb}InfluxDB}\\ \cvtag{\simpleicon{homeassistant} Home Assistant}\cvtag{\simpleicon{grafana} Grafana}
+  \item Diseño de dispositivos electrónicos relacionados con la música.
+  \item \textbf{Licencia de conducir} B y coche propio.
+\end{itemize}
+
+% \cvsection{Strengths}
+
+% % Don't overuse these \cvtag boxes — they're just eye-candies and not essential. If something doesn't fit on a single line, it probably works better as part of an itemized list (probably inlined itemized list), or just as a comma-separated list of strengths.
+
+% % The `ragged2e` document class option might cause automatic linebreaks between \cvtag to fail.
+% % Either remove the ragged2e option; or 
+% % add \LaTeXraggedright in the paragraph for these \cvtag
+% {\LaTeXraggedright
+% \cvtag{Hard-working}
+% \cvtag{Eye for detail}
+% \cvtag{Motivator \& Leader}
+% \par}
+
+% \divider\smallskip
+
+% %% ...Or manually add linebreaks yourself
+% \cvtag{C}
+% \cvtag{Embedded Systems}\\
+% \cvtag{Statistical Analysis}
+
+%% Yeah I didn't spend too much time making all the
+%% spacing consistent... sorry. Use \smallskip, \medskip,
+%% \bigskip, \vspace etc to make adjustments.
+
+\end{paracol}
+
+
+\end{document}
