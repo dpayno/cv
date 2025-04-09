@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1744100856.89495 "/home/dani/work/cv/cv_en.tex" "cv_en.pdf" "cv_en" 1744100857.80051 0
-  "/home/dani/work/cv/cv_en.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
+["pdflatex"] 1744188028.48456 "/home/dani/work/cv/cv_en.tex" "cv_en.pdf" "cv_en" 1744188029.36943 0
+  "/home/dani/work/cv/cv_en.tex" 1744188027.4079 10035 79d68e37676a614b0d51f8bfa53bfaff ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1742685315 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1742685315 3083 a707712f77b073b3833e4b1334a30e99 ""
+  "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1742685315 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1742685315 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc" 1742685315 2905 1556c73dc99638e0dfff2f132c244f30 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc" 1742685315 2908 33404fff2a7b8e169974e96af0be5333 ""
@@ -28,6 +29,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1742685315 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm" 1742685315 1132 8aee78c25f591abde3c9ce09e694423f ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm" 1742685315 1328 8843c76048ec1e1c4b2d1007558b8833 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1742685315 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1742685315 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free3solid.tfm" 1742685315 1236 01f4577264ada23bfb25b6d983302f6b ""
   "/usr/share/texmf-dist/fonts/tfm/public/simpleicons/SimpleIcons--simpleiconseight.tfm" 1742685315 1232 d670590d98a1fab6962c4db33ec0d598 ""
@@ -173,6 +175,7 @@
   "/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty" 1742685315 8112 16dbb19fca3f2df864fea49874356f35 ""
   "/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1742685315 1206 b35c804e364d46e802702be118632c48 ""
   "/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd" 1742685315 980 f00df3fe21ca0934b441dacef142037f ""
+  "/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd" 1742685315 980 1b42613a5245ed252c04030af746d737 ""
   "/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd" 1742685315 980 38ce61da47d1ba16e56a2e312b56a515 ""
   "/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd" 1742685315 980 2697c93582246b8da75635f956e941ff ""
   "/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1742685315 14310 41fdb35c51be792ddf00696848d0cfef ""
@@ -265,10 +268,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1743784700 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1743784651 2008232 e91f60096aac649f680d4c96c2e0b9b2 ""
   "altacv.cls" 1741260152 17703 3b52b2f302371568da402258ac506904 ""
-  "cv_en.aux" 1744100857.7032 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "cv_en.out" 1744100857.43654 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv_en.tex" 1744016413.64533 9666 97dcf48bcc40dbd031ee497b80799aae ""
-  "pdfa.xmpi" 1744100857.17987 5042 71c306477903eb69f638e2936da16b4c "pdflatex"
+  "cv_en.aux" 1744188029.26791 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "cv_en.out" 1744188029.02458 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_en.tex" 1744188027.4079 10035 79d68e37676a614b0d51f8bfa53bfaff ""
+  "dani.jpg" 1744128917.53419 450878 df7bb904eb7576e85f6ffaca2297c2c4 ""
+  "pdfa.xmpi" 1744188028.76458 5042 c2dd8ccb650d3c87dd7fc37f59f16602 "pdflatex"
   (generated)
   "cv_en.aux"
   "cv_en.log"

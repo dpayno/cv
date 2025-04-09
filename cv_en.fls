@@ -422,6 +422,10 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texmf-dist/tex/latex/mmap/omx.cmap
 INPUT /usr/share/texmf-dist/tex/latex/mmap/omx.cmap
 INPUT /usr/share/texmf-dist/tex/latex/mmap/omx.cmap
+INPUT ./dani.jpg
+INPUT ./dani.jpg
+INPUT ./dani.jpg
+INPUT ./dani.jpg
 INPUT /usr/share/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/google/roboto/RobotoSlab-Regular-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/google/roboto/RobotoSlab-Bold-tlf-t1.tfm
@@ -478,6 +482,10 @@ INPUT /usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconssix.fd
 INPUT /usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconssix.fd
 INPUT /usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconssix.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/simpleicons/SimpleIcons--simpleiconssix.tfm
+INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+INPUT /usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
@@ -520,6 +528,7 @@ INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconstwo.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc
+INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc
 INPUT cv_en.aux
 INPUT ./cv_en.out

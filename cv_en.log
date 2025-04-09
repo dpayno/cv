@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.4)  8 APR 2025 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.4)  9 APR 2025 10:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,6 +1183,11 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 109.
+<dani.jpg, id=18, 527.15804pt x 338.84306pt>
+File: dani.jpg Graphic file (type jpg)
+<use dani.jpg>
+Package pdftex.def Info: dani.jpg  used on input line 109.
+(pdftex.def)             Requested size: 527.15675pt x 338.84222pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 120.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
@@ -1190,70 +1195,95 @@ LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
 (Font)              `T1/RobotoSlab-TLF/bold/n' on input line 120.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 128.
+(Font)              scaled to size 10.0pt on input line 126.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 128.
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 137.
+(Font)              scaled to size 9.0pt on input line 126.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 131.
  (/usr/share/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 137.
-LaTeX Font Info:    Trying to load font information for U+simpleiconsnine on input line 153.
+(Font)              scaled to size 9.0pt on input line 131.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsnine on input line 150.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsnine.fd
 File: usimpleiconsnine.fd 2025/03/07 Font definitions for U/simpleiconsnine.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsfive on input line 155.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsfive on input line 150.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsfive.fd
 File: usimpleiconsfive.fd 2025/03/07 Font definitions for U/simpleiconsfive.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsthree on input line 156.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsthree on input line 150.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsthree.fd
 File: usimpleiconsthree.fd 2025/03/07 Font definitions for U/simpleiconsthree.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconseight on input line 160.
+LaTeX Font Info:    Trying to load font information for U+simpleiconseight on input line 155.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconseight.fd
 File: usimpleiconseight.fd 2025/03/07 Font definitions for U/simpleiconseight.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsfour on input line 161.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsfour on input line 155.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsfour.fd
 File: usimpleiconsfour.fd 2025/03/07 Font definitions for U/simpleiconsfour.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsoneone on input line 162.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsoneone on input line 155.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsoneone.fd
 File: usimpleiconsoneone.fd 2025/03/07 Font definitions for U/simpleiconsoneone.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsseven on input line 186.
- (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsseven.fd
+Overfull \hbox (11.8317pt too wide) in paragraph at lines 160--161
+[][]  []  []  []  []  []  []  [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+simpleiconsseven on input line 165.
+(/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsseven.fd
 File: usimpleiconsseven.fd 2025/03/07 Font definitions for U/simpleiconsseven.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 193.
-LaTeX Font Info:    Trying to load font information for U+simpleiconstwo on input line 201.
- (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconstwo.fd
+(Font)              scaled to size 7.0pt on input line 165.
+
+Overfull \hbox (20.40082pt too wide) in paragraph at lines 165--166
+[][]  []  []  []  []  [] 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+simpleiconstwo on input line 170.
+(/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconstwo.fd
 File: usimpleiconstwo.fd 2025/03/07 Font definitions for U/simpleiconstwo.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsonezero on input line 212.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsonezero on input line 175.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsonezero.fd
 File: usimpleiconsonezero.fd 2025/03/07 Font definitions for U/simpleiconsonezero.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconsonethree on input line 213.
+LaTeX Font Info:    Trying to load font information for U+simpleiconsonethree on input line 175.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconsonethree.fd
 File: usimpleiconsonethree.fd 2025/03/07 Font definitions for U/simpleiconsonethree.
 )
-LaTeX Font Info:    Trying to load font information for U+simpleiconssix on input line 217.
+LaTeX Font Info:    Trying to load font information for U+simpleiconssix on input line 175.
  (/usr/share/texmf-dist/tex/latex/simpleicons/usimpleiconssix.fd
 File: usimpleiconssix.fd 2025/03/07 Font definitions for U/simpleiconssix.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 228.
+Overfull \hbox (8.62671pt too wide) in paragraph at lines 175--176
+[][]  []  []  []  []  [] 
+ []
+
+
+Overfull \hbox (5.27179pt too wide) in paragraph at lines 175--176
+[]  []  []  []  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+ 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 187.
+(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 189.
  (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-Overfull \hbox (0.4016pt too wide) in paragraph at lines 259--259
-[]\T1/lato-TLF/m/n/12 Design and im-ple-men-ta-tion of a MIDI 
+Overfull \hbox (1.53455pt too wide) in paragraph at lines 207--208
+\T1/lato-TLF/m/n/10 de-vel-op-ment with multi-disciplinary teams.  
  []
 
 [1
 
-{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsnine.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfive.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsthree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconseight.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfour.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsoneone.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsseven.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconstwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}] (./cv_en.aux)
+{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsnine.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfive.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsthree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconseight.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsfour.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsoneone.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsseven.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconstwo.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonezero.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconsonethree.enc}{/usr/share/texmf-dist/fonts/enc/dvips/simpleicons/simpleiconssix.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc} <./dani.jpg>] (./cv_en.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1262,17 +1292,17 @@ Package rerunfilecheck Info: File `cv_en.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 36204 strings out of 475171
- 720785 string characters out of 5767096
- 1100218 words of memory out of 5000000
- 58560 multiletter control sequences out of 15000+600000
- 784883 words of font info for 80 fonts, out of 8000000 for 9000
+ 36256 strings out of 475171
+ 722074 string characters out of 5767096
+ 1098720 words of memory out of 5000000
+ 58607 multiletter control sequences out of 15000+600000
+ 785188 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,7n,121p,546b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,8n,121p,546b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/simpleicons/SimpleIcons.pfb>
-Output written on cv_en.pdf (1 page, 204729 bytes).
+Output written on cv_en.pdf (1 page, 656206 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
- 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
